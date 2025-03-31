@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hiruni Kapuge</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning ** Advanced Java**
 
 - 📫 How to reach me **thushanthigithika@gmail.com**
 
