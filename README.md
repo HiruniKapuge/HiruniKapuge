@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hiruni Kapuge</h1>
 <h3 align="center">A  frontend and Backend  developer from Sri Lanka</h3>
 
-- 🌱 I’m currently learning ** Advanced Java**
+## 🚀 About Me
+- 🎓 I'm currently working on real-world projects involving **React, Java RMI, Hibernate**, and **MySQL**.
+- 🧠 Always learning something new — from **web development** to **desktop apps** and **database management**.
+- 🛠️ Tools I use often:  
+  `Java` `JavaScript` `React` `Node.js` `MySQL` `Hibernate` `Git`
 
 - 📫 How to reach me **thushanthigithika@gmail.com**
 
