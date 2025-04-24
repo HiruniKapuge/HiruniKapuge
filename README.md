@@ -7,6 +7,7 @@
 - 🛠️ Tools I use often:  
   `Java` `JavaScript` `React` `Node.js` `MySQL` `Hibernate` `Git`
   ## 🧩 Projects
+  - 🪑 **Furniture Shop Management System** — MERN stack website  (MERN).
 
 - 📫 How to reach me **thushanthigithika@gmail.com**
 
