@@ -6,6 +6,7 @@
 - 🧠 Always learning something new — from **web development** to **desktop apps** and **database management**.
 - 🛠️ Tools I use often:  
   `Java` `JavaScript` `React` `Node.js` `MySQL` `Hibernate` `Git`
+  ## 🧩 Projects
 
 - 📫 How to reach me **thushanthigithika@gmail.com**
 
