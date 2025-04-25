@@ -10,6 +10,7 @@
   - 🪑 **Furniture Shop Management System** — MERN stack website  (MERN).
 
 ## 📫 Let's Connect
+- 📧 Email: thushanthigithika@.gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
