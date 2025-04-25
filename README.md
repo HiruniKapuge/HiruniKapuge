@@ -9,7 +9,7 @@
   ## 🧩 Projects
   - 🪑 **Furniture Shop Management System** — MERN stack website  (MERN).
 
-- 📫 How to reach me **thushanthigithika@gmail.com**
+## 📫 Let's Connect
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
