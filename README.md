@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hiruni Kapuge</h1>
+<h1 align="center">Hi 👋, I'm Hiruni Madumali Kapuge</h1>
 <h3 align="center">A  frontend and Backend  developer from Sri Lanka</h3>
 
 ## 🚀 About Me
