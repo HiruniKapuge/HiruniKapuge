@@ -1,33 +1,33 @@
 <h1 align="center">Hi 👋, I'm Hiruni Madumali Kapuge</h1>
-<h3 align="center">💻 A Full Stack Developer from Sri Lanka 🇱🇰</h3>
+<h3 align="center">💻 Full Stack Developer from Sri Lanka 🇱🇰</h3>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Currently developing real-world applications using **React**, **Java RMI**, **Hibernate**, and **MySQL**
-- 💡 Interested in both **web** and **desktop** development with a strong focus on **backend integration**
-- 📘 Always learning new technologies and best practices in **software development**
-- 🛠️ Frequently working with:  
+- 🎓 Currently building real-world applications using **React**, **Java RMI**, **Hibernate**, and **MySQL**
+- 💡 Passionate about both **web** and **desktop** development, with a strong focus on **backend integration**
+- 📘 Continuously exploring new technologies and best practices in **software engineering**
+- 🛠️ Tech Stack I'm comfortable with:  
   `Java` `JavaScript` `React` `Node.js` `MySQL` `Hibernate` `Git`
 
 ---
 
-## 🧩 Featured Projects
+## 🧩 Featured Project
 
 ### 🪑 Furniture Shop Management System
-A complete **MERN stack** solution featuring:
-- 🛒 Product Gallery & Offers
-- 📦 Inventory & Billing Management
-- 🛠️ Admin Dashboard for content and order control
+A comprehensive **MERN Stack** and **Java-based** solution featuring:
+- 🛒 Product gallery, latest offers & promotions
+- 📦 Inventory tracking & billing system
+- 🛠️ Admin dashboard for order, content, and stock management
 
 ---
 
 ## 📬 Connect with Me
 
 - 📧 Email: [thushanthigithika@gmail.com](mailto:thushanthigithika@gmail.com)
-- 💼 LinkedIn: *Coming Soon...*
-- 🌐 Portfolio: *Coming Soon...*
+- 💼 LinkedIn: *Coming Soon*
+- 🌐 Portfolio: *Coming Soon*
 
 ---
 
@@ -56,11 +56,12 @@ A complete **MERN stack** solution featuring:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="hiruni's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="Hiruni's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
 ## ⚡ Fun Fact
-> I enjoy turning complex problems into simple, beautiful, and intuitive solutions 🚀
+
+> I love turning complex problems into clean, intuitive, and user-friendly solutions. There's nothing more satisfying than building something that just works 🚀
