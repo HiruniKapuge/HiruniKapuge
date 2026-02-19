@@ -26,7 +26,7 @@ A comprehensive **MERN Stack** and **Java-based** solution featuring:
 ## 📬 Connect with Me
 
 - 📧 Email: [thushanthigithika@gmail.com](mailto:thushanthigithika@gmail.com)
-- 💼 LinkedIn: *Coming Soon*
+- 💼 LinkedIn: in/hiruni-nanayakkara-94b144289
 - 🌐 Portfolio: *Coming Soon*
 
 ---
